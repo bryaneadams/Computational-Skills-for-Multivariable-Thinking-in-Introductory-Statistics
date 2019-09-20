@@ -2,7 +2,7 @@
 title: "MA206 Introduction to RStudio and Tidyverse"
 author: "Bryan Adams"
 date: "`r Sys.Date()`"
-output: rmarkdown::github_document
+output: 
     rmdformats::readthedown:
     highlight: kate
   
