@@ -2,9 +2,10 @@
 title: "MA206 Introduction to RStudio and Tidyverse"
 author: "Bryan Adams"
 date: "`r Sys.Date()`"
-output: 
-  rmdformats::readthedown:
+output: rmarkdown::github_document
+    rmdformats::readthedown:
     highlight: kate
+  
 ---
 ```{r klippy, echo=FALSE, include=TRUE, warning=F}
 klippy::klippy()
