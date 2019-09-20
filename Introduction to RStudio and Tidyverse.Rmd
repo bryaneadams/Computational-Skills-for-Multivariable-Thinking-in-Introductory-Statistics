@@ -1,6 +1,6 @@
 ---
-title: "Introduction to RStudio and Tidyverse"
-author: "CPT Bryan Adams"
+title: "MA206 Introduction to RStudio and Tidyverse"
+author: "Bryan Adams"
 date: "`r Sys.Date()`"
 output: 
   rmdformats::readthedown:
