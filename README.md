@@ -22,3 +22,7 @@ In the folder “Statistical Investigation Labs” are SILs that we assigned to 
 3.	Confidence Intervals using data from pew research polls
 4.	Comparison of two proportions or means 
 5.	Simple linear regression
+
+## Course Guide
+
+Our course guide is designed to assist the students in learning how to use R to conduct statistical analysis.  In the course guide there are sections of code titlted "Theory-based method for ..."  Each of these sections provides students with the code for replicating an example from the textbook.  The course guide files are in the "Course Guide" folder.  All data sets used in the course guide are from our textbook and can be found [here](http://www.isi-stats.com/isi/data.html).  Click [here]() to view the course guide as an html document.
