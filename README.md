@@ -8,7 +8,9 @@ The tutorial is designed to provide an introduction to R using tidyverse.  It is
 
 In the tutorial, students learn to navigate RStudio, read in a `.csv` file, become familiar with `dplyr` verbs and create data visualizations with `ggplot2`.  The `dplyr` verbs covered in the tutorial include `summarise()`, `filter()`, `select()`, `mutate()`, and `group_by()`.  The students also become familiar using `ggplot2` to create scatter plots and histograms.  They are also provided the code to recreate data visualizations found in the course's textbook.  The data sets from the textbook are available [here](http://www.isi-stats.com/isi/data.html).  Inspiration for the tutorial came from hearing Hadley Wickham speak at the United States Military Academy and from his book [R for Data Science](https://r4ds.had.co.nz/index.html).
 
-Click [here](http://htmlpreview.github.io/?https://github.com/bryaneadams/MA206-tidyverse-tutorial/blob/master/Introduction%20to%20RStudio%20and%20tidyverse%20files/Introduction_to_RStudio_and_Tidyverse.html) to view the tutorial as an html document.
+Click [here](http://htmlpreview.github.io/?https://github.com/bryaneadams/MA206-tidyverse-tutorial/blob/master/Introduction to RStudio and tidyverse files/MA206_Introduction_to_RStudio_and_Tidyverse.html) to view the tutorial as an html document.
+
+
 
 ## Statistical Investigation Lab (SIL)
 
