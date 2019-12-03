@@ -1,4 +1,4 @@
-# Multivariable thinking with tidyverse
+# Computational Skills for Multivariable Thinking in Introductory Statistics
 
 ## A tidyverse tutotrial used in class
 
