@@ -8,7 +8,7 @@ The tutorial is designed to provide an introduction to R using tidyverse.  It is
 
 In the tutorial, students learn to navigate RStudio, read in a `.csv` file, become familiar with `dplyr` verbs and create data visualizations with `ggplot2`.  The `dplyr` verbs covered in the tutorial include `summarise()`, `filter()`, `select()`, `mutate()`, and `group_by()`.  The students also become familiar using `ggplot2` to create scatter plots and histograms.  They are also provided the code to recreate data visualizations found in the course's textbook.  The data sets from the textbook are available [here](http://www.isi-stats.com/isi/data.html).  Inspiration for the tutorial came from hearing Hadley Wickham speak at the United States Military Academy and from his book [R for Data Science](https://r4ds.had.co.nz/index.html).
 
-Click [here](https://htmlpreview.github.io/?https://github.com/bryaneadams/multivariable-thinking-with-tidyverse/blob/master/Introduction%20to%20RStudio%20and%20tidyverse%20files/MA206_Introduction_to_RStudio_and_Tidyverse.html) to view the tutorial as an html document.
+Click [here](http://htmlpreview.github.io/?https://github.com/bryaneadams/Computational-Skills-for-Multivariable-Thinking-in-Introductory-Statistics/blob/master/Introduction%20to%20RStudio%20and%20tidyverse%20files/MA206_Introduction_to_RStudio_and_Tidyverse.html) to view the tutorial as an html document.
 
 
 
@@ -25,4 +25,4 @@ In the folder “Statistical Investigation Labs” are SILs that we assigned to 
 
 ## Course Guide
 
-Our course guide is designed to assist the students in learning how to use R to conduct statistical analysis.  In the course guide there are sections of code titlted "Theory-based method for ..."  Each of these sections provides students with the code for replicating an example from the textbook.  The course guide files are in the "Course Guide" folder.  All data sets used in the course guide are from our textbook and can be found [here](http://www.isi-stats.com/isi/data.html).  Click [here](http://htmlpreview.github.io/?https://github.com/bryaneadams/multivariable-thinking-with-tidyverse/blob/master/MA206Y%20Course%20Guide/MA206Y_Course_Guide.html) to view the course guide as an html document.
+Our course guide is designed to assist the students in learning how to use R to conduct statistical analysis.  In the course guide there are sections of code titlted "Theory-based method for ..."  Each of these sections provides students with the code for replicating an example from the textbook.  The course guide files are in the "Course Guide" folder.  All data sets used in the course guide are from our textbook and can be found [here](http://htmlpreview.github.io/?https://github.com/bryaneadams/Computational-Skills-for-Multivariable-Thinking-in-Introductory-Statistics/blob/master/MA206Y%20Course%20Guide/MA206Y_Course_Guide.html) to view the course guide as an html document.
