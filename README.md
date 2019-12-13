@@ -4,7 +4,7 @@
 
 We created this tutorial for use in and introductory statistics course to introduce our students to R and tidyverse.  The course is MA206Y - Introduction to Data Analysis and Statistics.  In the course we use the textbook "Introduction to Statistical Investigations" by Tintle et al.
 
-The tutorial is designed to introduce R using tidyverse.  It is not necessary for the students to be familiar with base R to use this tutorial.
+We designed the tutorial to introduce R and using tidyverse. It is not necessary for the students to be familiar with base R to use this tutorial.
 
 In the tutorial, students learn to navigate RStudio, read in a `.csv` file, become familiar with `dplyr` verbs and create data visualizations with `ggplot2`.  The `dplyr` verbs covered in the tutorial include `summarize()`, `filter()`, `select()`, `mutate()`, and `group_by()`.  The students also become familiar using `ggplot2` to create scatter plots and histograms.  The tutorial also provides the code to recreate data visualizations found in the course's textbook.  The data sets from the textbook are available [here](http://www.isi-stats.com/isi/data.html).  Inspiration for the tutorial came from hearing Hadley Wickham speak at the United States Military Academy and from his book [R for Data Science](https://r4ds.had.co.nz/index.html).
 
